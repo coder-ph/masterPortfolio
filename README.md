@@ -30,15 +30,24 @@ Key features of my portfolio include:
 
 # Usage
 Once installed, you can explore the portfolio by
-**Browsing through the About Me, Projects, and Contact sections.**
-**Viewing live demos and code repositories of my projects.**
-**Using the contact form to reach out for collaborations.**
+- Browsing through the **About Me, Projects, Skills, and Contact sections.**
+- Viewing live demos and code repositories of my projects.
+- Using the contact form to reach out for collaborations.
 
 # Contributing
 I’m open to contributions and improvements! To contribute:
 
-**Fork the repository.**
-**Create a new branch (`git checkout -b feature-branch`).**
-**Make your changes and commit them (`git commit -m 'Added feature`).**
-**Push to the branch (`git push origin feature-branch`).**
-**Open a pull request.**
+- Fork the repository.
+- Create a new branch (`git checkout -b feature-branch`).
+- Make your changes and commit them (`git commit -m 'Added feature`).
+- Push to the branch (`git push origin feature-branch`).
+- Open a pull request.
+
+# Contact
+Feel free to connect with me:
+- **Email**: phelixmbani@gmail.com
+- **LinkedIn**
+- **GitHub**: github.com/coder-ph
+
+# License
+This project is licensed under the MIT License
