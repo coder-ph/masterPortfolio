@@ -565,3 +565,9 @@ width: 100%;
 .footer-text p{
     font-size: 1.6rem;
 }
+
+.projects{
+    min-height: auto;
+    padding-bottom: 7rem;
+    background: var(--second-bg-color);
+}
