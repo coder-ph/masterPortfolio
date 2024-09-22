@@ -13,7 +13,18 @@ The following technologies were used to develop this project:
 
 # Features
 Key features of my portfolio include:
-- **Responsive Design**: (to be handled by JavaScript later)
-- **Projects Section**: Hover effects.
-- **Contact Form**: Allow potential employers and visitors to get in touch directly.
-- **Simple Navigation**: Easy-to-use layout. 
+- *Responsive Design*: (to be handled by JavaScript later)
+- *Projects Section*: Hover effects.
+- *Contact Form*: Allow potential employers and visitors to get in touch directly.
+- *Simple Navigation*: Easy-to-use layout. 
+
+# Setup and Installation
+- 1. **fork the repository**
+- 2. **Clone the repository**
+    `git clone https://github.com/your-username/masterPortfolio.git`
+- 3. **Navigate to the project folder**
+    cd masterPoerfolio
+- 4. **Open in VS COde**
+    `code .`
+- 5. **Open in a browser the index.html file in your favourite browser**
+    `open index.html`
