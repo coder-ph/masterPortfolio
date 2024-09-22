@@ -7,6 +7,13 @@ This portfolio website was built to display my skills and experience as a Fullst
 
 ## Technologies Used
 The following technologies were used to develop this project:
-- HTML: For the structure of the content.
-- CSS : For styling and providing layout.
-- Git & GitHub: For version control and hosting
+- **HTML**: For the structure of the content.
+- **CSS** : For styling and providing layout.
+- **Git & GitHub**: For version control and hosting
+
+# Features
+Key features of my portfolio include:
+- **Responsive Design**: (to be handled by JavaScript later)
+- **Projects Section**: Hover effects.
+- **Contact Form**: Allow potential employers and visitors to get in touch directly.
+- **Simple Navigation**: Easy-to-use layout. 
